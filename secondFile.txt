@@ -1,1 +1,2 @@
 This is the first line of the secondFile.txt and make 
+This is the second line
